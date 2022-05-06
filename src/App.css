@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  border-collapse: collapse;
+}
+.container {
+  text-align: center;
+  background-color: #939393;
+}
+.subContainer{
+  display: flex;
+}
+
